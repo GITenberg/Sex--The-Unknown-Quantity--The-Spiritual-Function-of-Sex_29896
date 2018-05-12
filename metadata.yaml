@@ -1,0 +1,29 @@
+_repo: Sex--The-Unknown-Quantity--The-Spiritual-Function-of-Sex_29896
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29896-h/images/cover.jpg
+creator:
+  author:
+    agent_name: McIvor-Tyndall, Alexander J. (Alexander James)
+    aliases:
+    - Nomad, Ali
+    - Lockwood, John
+    deathdate: 1940
+    gutenberg_agent_id: '5324'
+    url: http://www.gutenberg.org/2009/agents/5324
+description: ''
+gutenberg_issued: '2009-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29896'
+  lccn: '16011175'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sex'
+- !lcc 'HQ'
+title: 'Sex--The Unknown Quantity: The Spiritual Function of Sex'
+url: http://www.gutenberg.org/ebooks/29896
